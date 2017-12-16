@@ -1,11 +1,7 @@
 # Deps
-node_modules
-bower_components
+node_modules/
+bower_components/
 
 # Runtime
 .DS_Store
 *.log
-
-# Testing
-.test
-screenshots
