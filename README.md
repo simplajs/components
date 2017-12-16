@@ -1,4 +1,8 @@
-# Simpla Components [WIP]
+<p align="center">
+  <a href="https://www.simplajs.org">
+    <img src="https://www.simplajs.org/assets/public/logo.png" alt="Simpla" width="300">
+  </a>
+</p>
 
 This is a monorepo of all of Simpla's official content components
 
