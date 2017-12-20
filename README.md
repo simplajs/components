@@ -36,7 +36,7 @@ For example: `[simpla-text] Something is broken`
 
 ---
 
-MIT © [Sean King](https://github.com/seaneking) & [Bede Overend](https://github.com/bedeoverend)
+[MIT](/LICENSE) © 2017
 
 <!-- Badges -->
 [simpla-text]: 	https://img.shields.io/npm/v/@simplajs/simpla-text.svg
