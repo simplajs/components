@@ -3,7 +3,7 @@
  -->
 
 ### I'm submitting a
-<!-- Is this for a Bug or a Feature request?-->
+<!-- Bug report or Feature request?-->
 
 ### Component
 <!-- What component is this related to? -->
@@ -11,15 +11,10 @@
 ### Description
 
 ### Futher details
-<!-- Eg: steps to reproduce problem - be as detailed as possible. For a feature request,  what problem will it solve? -->
+<!-- For bug reports, steps to reproduce problem. For feature requests, what problem will it solve? -->
 
 ### Browsers Affected
-<!-- Check all that apply, add versions if possible -->
-- [ ] Chrome
-- [ ] Firefox
-- [ ] Edge
-- [ ] Safari
-- [ ] IE 11
+<!-- List the browsers you've tested this on, add versions if possible -->
 
 ### Error messages
 <!-- Add any error messages from the console, if they're long link to a Gist -->
